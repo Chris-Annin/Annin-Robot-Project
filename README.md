@@ -4,10 +4,10 @@
 
 This project includes:
 
--Bill of materials and instructions
--CAD files to 3D print components to build the robot
--Arduino sketch for stepper driver control
--Software to program and operate robot
+- Bill of materials and instructions
+- CAD files to 3D print components to build the robot
+- Arduino sketch for stepper driver control
+- Software to program and operate robot
 
 
 [![Alt text](https://img.youtube.com/vi/XkAfb8alqnI/0.jpg)](https://www.youtube.com/watch?v=XkAfb8alqnI)

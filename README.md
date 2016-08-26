@@ -10,7 +10,7 @@ This project includes:
 - Software to program and operate robot
 
 
-[![Alt text](https://img.youtube.com/vi/XkAfb8alqnI/1.jpg)](https://www.youtube.com/watch?v=XkAfb8alqnI)
+[![Alt text](https://img.youtube.com/vi/XkAfb8alqnI/0.jpg)](https://www.youtube.com/watch?v=XkAfb8alqnI)
 
 
 This was my first Arduino program and my first python application using the Tk module.

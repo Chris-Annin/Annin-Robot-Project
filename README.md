@@ -1,6 +1,6 @@
-#Annin Robot Project
+# Annin Robot Project
 
-##6 axis stepper motor robot and control software
+## 6 axis stepper motor robot and control software
 
 This project includes:
 

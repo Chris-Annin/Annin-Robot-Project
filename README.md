@@ -27,4 +27,3 @@ and design and build bigger and better robot units and share thier designs.
 
 please view license file
 
-questions: chris.annin@gmail.com

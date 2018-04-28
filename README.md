@@ -27,3 +27,6 @@ and design and build bigger and better robot units and share thier designs.
 
 please view license file
 
+Questions: chris.annin@gmail.com
+#
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/ChrisAnnin)
